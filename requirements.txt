@@ -1,0 +1,8 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+pytorch=1.8.1=py3.8_cuda11.1_cudnn8.0.5_0
+torchaudio=0.8.1=py38
+torchvision=0.9.1=py38_cu111
+opencv-python=4.7.0.72=pypi_0
+opencv-python-headless=4.7.0.72=pypi_0
