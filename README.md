@@ -30,7 +30,9 @@ output: This should display the segmentation map and material similarity map for
 
 ## Interactive Demo:
 run: Demo_Interactive.py
+
 You can move the target spot using arrows and change the spot size using +/- 
+
 This will display the similarity of the rest of the image to the materials in the selected spot.
 
 # Train:
