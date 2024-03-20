@@ -40,9 +40,9 @@ output: trained model weights will be saved in the /log folder.
 Sample data are supplied with the code which should allow the model to run out of the box.
 
 # Test on the MatSeg Benchmark
-Download the MatSeg Benchmark from one of these urls [1](https://icedrive.net/s/NtbARDSx6WtSN748Z7kix8ZXZtSu),[2](https://e.pcloud.link/publink/show?code=XZDsGnZ3ERMX76L5dYLzfnPTch8fYRtlRXV),[3](https://zenodo.org/records/10801191):
+Download the MatSeg Benchmark from one of these URLs: [1](https://icedrive.net/s/NtbARDSx6WtSN748Z7kix8ZXZtSu),[2](https://e.pcloud.link/publink/show?code=XZDsGnZ3ERMX76L5dYLzfnPTch8fYRtlRXV),[3](https://zenodo.org/records/10801191).
 
-run Evaluate --images_dir "MatSeg benchmark image dir" --data_dir "MatSeg Benchmark data dir"
+run: Evaluate --images_dir "MatSeg benchmark image dir" --data_dir "MatSeg Benchmark data dir"
 
 Results will be displayed on the screen
 
