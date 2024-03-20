@@ -33,7 +33,7 @@ run: Demo_Interactive.py
 
 You can move the target spot using arrows and change the spot size using +/- 
 
-This will display the similarity of the rest of the image to the materials in the selected spot.
+This will display the similarity of the rest of the image to the materials in the spot.
 
 # Train:
 Download MatSeg dataset one of these URLs [1](https://e.pcloud.link/publink/show?code=kZHCcnZOfzqInb3anSl7xzFBoqCDmkr2JKV),[2](https://icedrive.net/s/SBb3g9WzQ5wZuxX9892Z3R4bW8jw),[3](https://zenodo.org/records/10801191).
