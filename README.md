@@ -6,8 +6,8 @@ And can be used to generate a segmentation map or similarity map for the materia
 See [Learning Zero-Shot Material States Segmentation,
 by Implanting Natural Image Patterns in Synthetic Data](https://arxiv.org/pdf/2403.03309.pdf).
 
-#### PreTrained model can be downloaded from these URLs [1](https://e.pcloud.link/publink/show?code=XZlkH9ZVr34Vk4oV9LQGkseAyMJXpbRDui7) , [2](https://icedrive.net/s/b75b61y8VSagutiYi1FZQSQhQVtZ) and copy into logs/ folder
-#### The net was trained on the MatSeg dataset that can be downloaded from [1](https://e.pcloud.link/publink/show?code=kZHCcnZOfzqInb3anSl7xzFBoqCDmkr2JKV),[2](https://icedrive.net/s/SBb3g9WzQ5wZuxX9892Z3R4bW8jw),[3](https://zenodo.org/records/10801191).
+#### PreTrained model can be downloaded from these URLs: [1](https://e.pcloud.link/publink/show?code=XZlkH9ZVr34Vk4oV9LQGkseAyMJXpbRDui7), [2](https://icedrive.net/s/b75b61y8VSagutiYi1FZQSQhQVtZ) and copy into logs/ folder
+#### The net was trained on the MatSeg dataset that can be downloaded from: [1](https://e.pcloud.link/publink/show?code=kZHCcnZOfzqInb3anSl7xzFBoqCDmkr2JKV),[2](https://icedrive.net/s/SBb3g9WzQ5wZuxX9892Z3R4bW8jw),[3](https://zenodo.org/records/10801191).
 #### Sample data is supplied in the subfolder: samples
  
 
@@ -22,7 +22,7 @@ OpenCV: [pip install opencv-python](https://pytorch.org/)
 The net was trained on a single RTX 3090.
 
 # Running Demo
-Train or download pretrained model  from one of these urls [1](https://e.pcloud.link/publink/show?code=XZlkH9ZVr34Vk4oV9LQGkseAyMJXpbRDui7) , [2](https://icedrive.net/s/b75b61y8VSagutiYi1FZQSQhQVtZ) and copy into logs/ folder
+Train or download pretrained model  from one of these URLs [1](https://e.pcloud.link/publink/show?code=XZlkH9ZVr34Vk4oV9LQGkseAyMJXpbRDui7), [2](https://icedrive.net/s/b75b61y8VSagutiYi1FZQSQhQVtZ) and copy into logs/ folder
 
 run: python Demo.py
 
