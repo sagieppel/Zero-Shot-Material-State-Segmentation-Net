@@ -56,7 +56,7 @@ def resize(im,max_size):
 ###############################################################################################
 # input parameters
 parser = argparse.ArgumentParser(description='Apply segmentation, find similarity of materials in the image to a selected point in the image')
-parser.add_argument('--image_path', default="samples/MatSegBenchMark/images_selected/20231018_110246.jpg", type=str, help='target image')
+parser.add_argument('--image_path', default="samples/MatSegBenchMark/images/20231018_110246.jpg", type=str, help='target image')
 #parser.add_argument('--image_path', default="samples/MatSegBenchMark/images_selected/20230913_185027.jpg", type=str, help='target image')
 parser.add_argument('--px', default= 300, type=int, help='x cordinate of selected point')
 parser.add_argument('--py', default= 350, type=int, help='y cordinate of selected point')
