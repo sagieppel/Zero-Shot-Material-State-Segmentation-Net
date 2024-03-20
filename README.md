@@ -28,7 +28,6 @@ run: python Demo.py
 
 output: This should display the segmentation map and material similarity map for a selected point in the test image (supplied).
 
-(see input parameters for modifying input)
 
 # Train:
 Download MatSeg dataset one of these URLs [1](https://e.pcloud.link/publink/show?code=kZHCcnZOfzqInb3anSl7xzFBoqCDmkr2JKV),[2](https://icedrive.net/s/SBb3g9WzQ5wZuxX9892Z3R4bW8jw),[3](https://zenodo.org/records/10801191).
