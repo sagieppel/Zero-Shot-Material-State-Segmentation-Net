@@ -97,7 +97,7 @@ if __name__ == "__main__":
 
     im = img.copy()
 
-    cv2.imshow("prob_map", ((prob_map) / prob_map.max() * 255).astype(np.uint8))
+  ###  cv2.imshow("prob_map", ((prob_map) / prob_map.max() * 255).astype(np.uint8))
 
     contour=(prob_map > args.thresh).astype(np.uint8)-cv2.erode((prob_map > args.thresh).astype(np.uint8),np.ones([5,5])) # segment contour
     # place point on image
