@@ -22,7 +22,7 @@ OpenCV: [pip install opencv-python](https://pytorch.org/)
 The net was trained on a single RTX 3090.
 
 # Running Demo
-Train or download pretrained model  from one of these URLs [1](https://e.pcloud.link/publink/show?code=XZlkH9ZVr34Vk4oV9LQGkseAyMJXpbRDui7), [2](https://icedrive.net/s/b75b61y8VSagutiYi1FZQSQhQVtZ) and copy into logs/ folder
+Train or download pretrained model  from one of these URLs [1](https://e.pcloud.link/publink/show?code=XZlQvMZzlpiakIEdXpB3lwC7kVX9HXnH5jk), [2]([https://icedrive.net/s/b75b61y8VSagutiYi1FZQSQhQVtZ](https://icedrive.net/s/h44XCxwYa1ikAthT7vQF74w6B3W8) and copy into logs/ folder
 
 run: python Demo.py
 
